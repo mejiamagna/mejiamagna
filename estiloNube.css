@@ -7,12 +7,15 @@
   border: 5px solid red;
 }
 */
+body {
+  background-color: rgb(122, 114, 245);
+}
 
 .cloud {
   width: 100px;
-  height: 60px;
+  height: 100px;
   border-radius: 50%;
-  background-color: white;
+  background-color: rgb(146, 238, 223);
   position: absolute;
   top: 50%;
   left: 0;
@@ -24,10 +27,7 @@
   0% {
     left: 0;
   }
-  50% {
-    left: 50%;
-  }
   100% {
-    left: 0;
+    left: 100%;
   }
 }
