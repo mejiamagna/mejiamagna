@@ -99,3 +99,10 @@ img {
     transform: translateY(-1000px);
   }
 }
+
+
+.new_size {
+  font-size: xx-large;
+}
+
+/*.desplazar para que ejecute en todas las listas*/
